@@ -9,6 +9,9 @@
 `export PROMPT_COMMAND='PS1="$(python ~/.promptgen.py)"'`
 3. you are good to go!
 
+#### Screenshots
+![Alt text](/media/screenshot1.png?raw=true "Optional Title")
+
 #### TODO
 - Maybe have a config file to select what info(uname, current dir info, hostname, ip addr, etc.) the user wants to see and generate prompt accordingly?
 
